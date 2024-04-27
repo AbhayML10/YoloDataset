@@ -1,0 +1,4 @@
+train: C:/labelme/data/YOLODataset/images/train/
+val: C:/labelme/data/YOLODataset/images/val/
+nc: 1
+names: ["Tumor"]
